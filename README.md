@@ -2,6 +2,10 @@
 
 This repository contains 50 UI projects built using HTML, CSS, and Vanilla Javascript. Each project showcases different techniques and concepts to create visually appealing and interactive web components. These projects can serve as inspiration and learning material for web developers looking to improve their skills in frontend development.
 
+## Live View
+You can view the live website [here](https://haziqfariduddin.github.io/50-HTML-CSS-Javascript-Project/) 
+
+
 ## Table of Contents
 
 1. [Project 1: Sign Up Form](#project-1-sign-up-form)
