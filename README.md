@@ -1,6 +1,3 @@
-# 50-HTML-CSS-Javascript-Project
-50 UI projects using HTML, CSS &amp; Vanilla Javascript
-
 # 50-HTML-CSS-Javascript-Projects
 
 This repository contains 50 UI projects built using HTML, CSS, and Vanilla Javascript. Each project showcases different techniques and concepts to create visually appealing and interactive web components. These projects can serve as inspiration and learning material for web developers looking to improve their skills in frontend development.
