@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  position: relative;
+  padding-left: 5rem;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  text-align: center;
+  z-index: 1;
+}
+
+header h1 {
+  color: #fff;
+}
+
+.nav-wrapper {
+  position: fixed;
+  top: 0;
+  left: -11rem;
+  height: 100%;
+  background-color: #f4f4f4;
+  overflow: hidden;
+  transition: left 1.5s cubic-bezier(0.19, 1, 0.22, 1);
+  width: 15rem;
+  z-index: 2;
+}
+
+.nav-wrapper:hover {
+  left: 0;
+}
+
+.nav-wrapper h2 {
+  font-size: 36px;
+  color: #222222;
+  margin-left: 2rem;
+}
+
+nav {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+nav::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for Internet Explorer and Edge */
+nav {
+  -ms-overflow-style: none;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0.5rem 0;
+  white-space: nowrap;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  background-color: #ddd;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  display: block;
+  width: 50%;
+}
+
+nav ul li a:hover {
+  background-color: #ccc;
+}
+
+main {
+  margin: 2rem;
+  padding-top: 3rem; /* Adjust the top padding to account for the header */
+}
+
+main h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+  text-align: center;
+}
+
+main p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
