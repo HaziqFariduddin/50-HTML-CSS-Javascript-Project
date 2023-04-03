@@ -9,7 +9,7 @@ You can view the live website [here](https://haziqfariduddin.github.io/50-HTML-C
 ## Table of Contents
 
 1. [Project 1: Sign Up Form](#project-1-sign-up-form)
-2. [Project 2: Coming Soon...](#project-2-coming-soon)
+2. [Project 2: Coming Soon...](#project-2-Nike-product-card)
 3. [Project 3: Coming Soon...](#project-3-coming-soon)
 ... and so on, up to Project 50.
 
