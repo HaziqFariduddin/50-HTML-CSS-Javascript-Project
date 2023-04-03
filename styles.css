@@ -84,10 +84,11 @@ nav ul li a {
   text-decoration: none;
   color: #333;
   background-color: #ddd;
-  padding: 0.5rem 0.6git rem;
+  padding: 0.5rem 0.6rem;
   border-radius: 10px;
   display: block;
   width: 50%;
+  text-align: center;
 }
 
 nav ul li a:hover {
