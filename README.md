@@ -15,13 +15,11 @@ You can view the live website [here](https://haziqfariduddin.github.io/50-HTML-C
 
 ## Project 1: Sign Up Form
 
-A simple, yet elegant sign-up form created using HTML, CSS, and JavaScript. This project demonstrates form validation, smooth transitions, and responsive design.
-
 [View Project](./Sign%20Up%20Form/index.html)
 
-## Project 2: Coming Soon...
+## Project 2: Nike Product card
 
-[View Project](./project2.html)
+[View Project](./Product%20Card/index.html)
 
 ## Project 3: Coming Soon...
 
